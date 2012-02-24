@@ -1,0 +1,12 @@
+Warn Me DC: A new kind of menu for the Dining Commons
+=====================================================
+Description: Warn Me DC is a web application that allows a user to generate a menu tailored specifically to them. Users rate food based on how they like it. Additionally, a user can blacklist food they might have an allergy to, so it won't even appear in the ratings for the day. With both global and user data, our system can calculate the quality of food for each day and send text based warnings so users can plan their meals accordingly.
+
+Platform: Python on Django with an SQLite (may be changed) database.
+
+TODO:
+Set up webserver and host on our own domain
+Automate the daily menu generation
+Implement the Google Voice API texting module
+Create user profile page
+Improve site layout and graphics
